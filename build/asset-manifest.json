@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-fish-app/static/css/main.3b3f2508.chunk.css",
+    "main.js": "/react-fish-app/static/js/main.b0eaa2f8.chunk.js",
+    "main.js.map": "/react-fish-app/static/js/main.b0eaa2f8.chunk.js.map",
+    "runtime-main.js": "/react-fish-app/static/js/runtime-main.a279596d.js",
+    "runtime-main.js.map": "/react-fish-app/static/js/runtime-main.a279596d.js.map",
+    "static/js/2.dab4a2a3.chunk.js": "/react-fish-app/static/js/2.dab4a2a3.chunk.js",
+    "static/js/2.dab4a2a3.chunk.js.map": "/react-fish-app/static/js/2.dab4a2a3.chunk.js.map",
+    "index.html": "/react-fish-app/index.html",
+    "precache-manifest.eb4a439cd8d6ce3ecaf0ba02302dd67e.js": "/react-fish-app/precache-manifest.eb4a439cd8d6ce3ecaf0ba02302dd67e.js",
+    "service-worker.js": "/react-fish-app/service-worker.js",
+    "static/css/main.3b3f2508.chunk.css.map": "/react-fish-app/static/css/main.3b3f2508.chunk.css.map",
+    "static/js/2.dab4a2a3.chunk.js.LICENSE.txt": "/react-fish-app/static/js/2.dab4a2a3.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/react-fish-app/static/media/haymaker-webfont.e9535f20.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a279596d.js",
+    "static/js/2.dab4a2a3.chunk.js",
+    "static/css/main.3b3f2508.chunk.css",
+    "static/js/main.b0eaa2f8.chunk.js"
+  ]
+}
